@@ -1,0 +1,22 @@
+html{
+    background-color: darkblue;
+   color:aqua;
+}
+
+a {
+         font-family: helvetica;   
+         background-color: black;
+      }
+         
+         a {
+            color: chartreuse;
+            color: white;
+         }
+         .tim {
+            border
+         }
+         a:hover {
+            background-color: aqua;
+            text-decoration: none;
+         }
+      
